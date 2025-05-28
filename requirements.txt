@@ -1,0 +1,12 @@
+asgiref==3.8.1
+build==1.2.2.post1
+click==8.2.1
+colorama==0.4.6
+Django==5.2.1
+packaging==25.0
+pip-tools==7.4.1
+pyproject_hooks==1.2.0
+sqlparse==0.5.3
+tomli==2.2.1
+typing_extensions==4.13.2
+tzdata==2025.2
